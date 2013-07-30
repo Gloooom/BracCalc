@@ -84,7 +84,6 @@ build/
 *.lastbuildstate
 *.vcxproj
 *.filters
-*.user
 *.res
 .rc
 Bin
